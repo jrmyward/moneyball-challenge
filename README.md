@@ -1,6 +1,6 @@
 # Moneyball
 
-We have been asked to write an application that will be used to provide information about baseball player statistics. You may use whatever gems, frameworks, and tools you think are appropriate. Please provide any special setup instructions when you submit your solution.
+Your task - write a Ruby application that will be used to provide information about baseball player statistics. You may use whatever gems, frameworks, and tools you think are appropriate. Please provide any special setup instructions when you submit your solution.
 
 ## Assumptions
 
